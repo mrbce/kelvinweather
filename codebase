@@ -1,0 +1,2 @@
+// Kelvin (weather) is to stay constant
+const kelvin = 293;
